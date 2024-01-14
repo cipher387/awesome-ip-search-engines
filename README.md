@@ -14,7 +14,7 @@
 * [GreyNoise](https://viz.greynoise.io/) 
 * [Hunter](https://hunter.how/) 
 * [Fofa](https://en.fofa.info/)
-* [Quake](https://quake.360.net/quake/#/index) 
+* [Quake 360](https://quake.360.net/quake/#/index) 
 * [Criminal IP](https://www.criminalip.io/)
 * [Shodan](https://www.shodan.io/) 
 
@@ -112,10 +112,10 @@
 * [FofaMap](https://github.com/asaotomo/FofaMap)
 * [FofaHack](https://github.com/Cl0udG0d/Fofa-hack)
 * [X-Fofa](https://github.com/sv3nbeast/X-Fofa)
-* []()
-* []()
-* []()
-* []()
+* [360Quake](https://github.com/test502git/360Quake)
+* [360quake_view](https://github.com/521nwp/360quake_view)
+* [PyCriminalIP](https://github.com/haginara/PyCriminalIP)
+* [SherlockSight (Criminal IP)](https://github.com/Aidennnn33/sherlocksight)
 
 * [NoMoney (universal)](https://github.com/H-Limbus/NoMoney)
 * [Searpy (universal)](https://github.com/j3ers3/Searpy)
@@ -157,7 +157,7 @@
 * [Fofa Viewer](https://github.com/wgpsec/fofa_viewer)
 * [fofaEX](https://github.com/10cks/fofaEX)
 * [Fofa Java](https://github.com/fofapro/fofa-java)
-* []()
+* [QuakeViewer](https://github.com/ZuoJunhao/QuakeViewer)
 * []()
 * []()
 
@@ -177,7 +177,7 @@
 * [FoFax](https://github.com/xiecat/fofax)
 * [Fofa Go](https://github.com/fofapro/fofa-go)
 * [Fofa Dump](https://github.com/TardC/fofadump)
-* []()
+* [QuakeAPI](https://github.com/YetClass/QuakeAPI)
 * []()
 
 
@@ -436,7 +436,12 @@
 * [Demisto GreyNoise](https://github.com/GreyNoise-Intelligence/greynoise-demisto)
 * [Swinlane GreyNoise](https://github.com/GreyNoise-Intelligence/greynoise-swimlane)
 * [Fofa Xray Plugin](https://github.com/Miagz/XrayFofa)
-* []()
+* [Maltego with Fofa](https://github.com/mark0smith/Maltego_with_Fofa)
+* [Criminal IP NSE Script](https://github.com/criminalip/CIP-NSE-Script)
+* [Criminal IP STIX](https://github.com/criminalip/CriminalIP-data-STIX)
+* [Criminal IP Volatility](https://github.com/criminalip/Criminalip-Volatility3-Plugins)
+* [Criminal IP Tenable](https://github.com/criminalip/CriminalIP-Tenable-Import-Asset)
+* [Criminal Ip Zabbix](https://github.com/criminalip/zabbix)
 
 
 
