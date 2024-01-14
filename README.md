@@ -394,7 +394,7 @@
 
 ## IRC Bots
 
-* [IRC Shodan Bot](https://github.com/ThibaudKieffer/shodanbot
+* [IRC Shodan Bot](https://github.com/ThibaudKieffer/shodanbot)
 
 
 ## WhatsApp Bots
