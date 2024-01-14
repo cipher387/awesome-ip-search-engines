@@ -1,7 +1,7 @@
 <div align="center">
      <h1>Awesome IP Search Engines</h1>
-     <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/awesome-ip-search-engines/"> 
-     <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/awesome-ip-search-engines/"> <br>
+     <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/awesome-ip-search-engines"> 
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/awesome-ip-search-engines"> <br>
      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fawesome-ip-search-engines&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
      <br>
      This repository contains tutorials and tools for working with IP search engines. Search engines that search all devices connected to the Internet and collect a lot of different information about them (open ports, protocols used for data transfer, Whois information, software used on servers and much, much more).
