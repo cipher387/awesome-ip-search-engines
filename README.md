@@ -32,91 +32,91 @@
 - [Tools](#tools )
 
 
-- [Integrations and plugins](#integrations-and-plugins)
+ - [Integrations and plugins](#integrations-and-plugins)
 
-- [Favicon search Tools](#awesome-ip-search-engines/#favicon-search-tools)
+ - [Favicon search Tools](#awesome-ip-search-engines/#favicon-search-tools)
 
-- [Network/port Scanners](#networkport-scanners )
+ - [Network/port Scanners](#networkport-scanners )
 
-- [Subdomain Search Tools](#subdomain-search-tools)
+ - [Subdomain Search Tools](#subdomain-search-tools)
 
-- [Exploit Automation Tools](#exploit-automation-tools )
+ - [Exploit Automation Tools](#exploit-automation-tools )
 
-- [Mapping/visualization tools](#mappingvisualization-tools)
+ - [Mapping/visualization tools](#mappingvisualization-tools)
 
-- [Results converting](#results-converting)
+ - [Results converting](#results-converting)
 
-- [Minecraft Servers Search Tools](#minecraft-servers-search-tools)
+ - [Minecraft Servers Search Tools](#minecraft-servers-search-tools)
 
-- [FTP Servers Search Tools](#ftp-servers-search-tools)
+ - [FTP Servers Search Tools](#ftp-servers-search-tools)
 
-- [Geo Search Tools](#geo-search-tools)
+ - [Geo Search Tools](#geo-search-tools)
 
-- [WAF](#waf)
+ - [WAF](#waf)
 
-- [Databases Search Tool](#databases-search-tool)
+ - [Databases Search Tool](#databases-search-tool)
 
-- [Default Credentials Automation Tools](#default-credentials-automation-tools)
+ - [Default Credentials Automation Tools](#default-credentials-automation-tools)
 
-- [C2 search tools](#c2-search-tools ) 
+ - [C2 search tools](#c2-search-tools ) 
 
-- [Monitoring tools](#monitoring-tools) 
+ - [Monitoring tools](#monitoring-tools) 
 
-- [URL fingerprinting tools](#url-fingerprinting-tools) 
+ - [URL fingerprinting tools](#url-fingerprinting-tools) 
 
-- [VNC Screenshots Automation](#vnc-screenshots-automation) 
+ - [VNC Screenshots Automation](#vnc-screenshots-automation) 
 
-- [Browser Extensions](#browser-extensions)
+ - [Browser Extensions](#browser-extensions)
 
-- [AI Help Tools](#ai-help-tools )
+ - [AI Help Tools](#ai-help-tools )
 
-- [Mobile Apps and SDK](#mobile-apps-and-sdk )
+ - [Mobile Apps and SDK](#mobile-apps-and-sdk )
 
-- [Discord Bots](#discord-bots)
+ - [Discord Bots](#discord-bots)
 
-- [IRC Bots](#irc-bots)
+ - [IRC Bots](#irc-bots)
 
-- [WhatsApp Bots](#whatsapp-bots)
+ - [WhatsApp Bots](#whatsapp-bots)
 
-- [Slack Bots](#slack-bots )
+ - [Slack Bots](#slack-bots )
 
-- [API Keys Search Tools](#api-keys-search-tools )
+ - [API Keys Search Tools](#api-keys-search-tools )
 
-- [Account Generators](#account-generators )
+ - [Account Generators](#account-generators )
 
-- [Alternative UI](#alternative-ui)
+ - [Alternative UI](#alternative-ui)
 
 - [Search tools written in different programming languages](#search-tools-written-in-different-programming-languages)
 
-- [Python Search Automation Tools](#python-search-automation-tools)
+ - [Python Search Automation Tools](#python-search-automation-tools)
 
-- [Bash Search Automation Tools](#bash-search-automation-tools)
+ - [Bash Search Automation Tools](#bash-search-automation-tools)
 
-- [Java Search Automation Tools](#java-search-automation-tools )
+ - [Java Search Automation Tools](#java-search-automation-tools )
 
-- [Go Search Automation Tools](#go-search-automation-tools )
+ - [Go Search Automation Tools](#go-search-automation-tools )
 
-- [Ruby Search Automation Tools](#ruby-search-automation-tools )
+ - [Ruby Search Automation Tools](#ruby-search-automation-tools )
 
-- [C# Search Automation Tools](#c-search-automation-tools )
+ - [C# Search Automation Tools](#c-search-automation-tools )
 
-- [C++ Search Automation Tools](#c-search-automation-tools-1)
+ - [C++ Search Automation Tools](#c-search-automation-tools-1)
 
-- [ Node JS Search Automation Tools](#node-js-search-automation-tools )
+ - [ Node JS Search Automation Tools](#node-js-search-automation-tools )
 
-- [ PowerShell Search Automation Tools](#powershell-search-automation-tools)
+ - [ PowerShell Search Automation Tools](#powershell-search-automation-tools)
 
-- [ PHP Search Automation Tools](#php-search-automation-tools)
+ - [ PHP Search Automation Tools](#php-search-automation-tools)
 
-- [ Clojure Search Automation Tools](#clojure-search-automation-tools )
+ - [ Clojure Search Automation Tools](#clojure-search-automation-tools )
 
-- [ Perl Search Automation Tools](#perl-search-automation-tools )
+ - [ Perl Search Automation Tools](#perl-search-automation-tools )
 
-- [ Crystal Search Automation Tools](#crystal-search-automation-tools)
+ - [ Crystal Search Automation Tools](#crystal-search-automation-tools)
 
-- [ R Search Automation Tools](#r-search-automation-tools)
+ - [ R Search Automation Tools](#r-search-automation-tools)
 
-- [ Rust Search Automation Tools](#rust-search-automation-tools)
+ - [ Rust Search Automation Tools](#rust-search-automation-tools)
 
 
 
