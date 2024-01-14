@@ -37,7 +37,7 @@
 
 
 
-https://github.com/atz-spe/SHODAN-CTF
+
 
 
 
@@ -56,7 +56,7 @@ https://github.com/atz-spe/SHODAN-CTF
 * [ICS IoT Shodan Dorks](https://github.com/AustrianEnergyCERT/ICS_IoT_Shodan_Dorks)
 * [Shodan dorks from @nullfuzz](https://github.com/nullfuzz-pentest/shodan-dorks)
 * [Shodan Dorks from @mr-exo](https://github.com/mr-exo/shodan-dorks)
-* https://github.com/SoumyaJas2324/-jakejarvis-awesome-shodan-queries-
+* [Awesome Shodan Queries](https://github.com/SoumyaJas2324/-jakejarvis-awesome-shodan-queries-)
 * []()
 * []()
 * []()
@@ -65,12 +65,15 @@ https://github.com/atz-spe/SHODAN-CTF
 * []()
 * []()
 * []()
-* []()
-* []()
+* [IoT Dorks](https://github.com/IoT-PTv/IoT-Dorks)
+* [CCTV DDNS Shodan Censys Queries](https://github.com/zveriu/cctv-ddns-shodan-censys)
 
-* https://github.com/IoT-PTv/IoT-Dorks
-https://github.com/zveriu/cctv-ddns-shodan-censys
+* 
 
+
+## Competions
+
+* [Shodan CTF](https://github.com/atz-spe/SHODAN-CTF)
 
 
 
@@ -93,7 +96,6 @@ https://github.com/zveriu/cctv-ddns-shodan-censys
 * [Shodan_So](https://github.com/zev3n/Shodan_So)
 * [Shodan Seeker](https://github.com/laincode/shodan-seeker)
 * [Shogun](https://github.com/NullArray/Shogun)
-
 * []()
 * []()
 * []()
@@ -101,15 +103,15 @@ https://github.com/zveriu/cctv-ddns-shodan-censys
 * []()
 * [Searpy (universal)](https://github.com/j3ers3/Searpy)
 * [Sarenka (universal)](https://github.com/KTZgraph/sarenka)
-https://github.com/Xc1Ym/cyberspace_map_API
-* https://github.com/xzajyjs/ThunderSearch
-  https://github.com/atdpa4sw0rd/Search-Tools
+* [CyberSpace Map API](https://github.com/Xc1Ym/cyberspace_map_API)
+* [ThunderSearch](https://github.com/xzajyjs/ThunderSearch)
+* [Search Tools](https://github.com/atdpa4sw0rd/Search-Tools)
 
 
 ## FTP Servers Search Tools
 
-https://github.com/imnikola/ShodanAnomymousDirs
-https://github.com/b3n4kh/shodan-ftpsearch
+* [ShodanAnomymousDirs](https://github.com/imnikola/ShodanAnomymousDirs)
+* [Shodan FTPSearch](https://github.com/b3n4kh/shodan-ftpsearch)
 
 
 
@@ -117,8 +119,8 @@ https://github.com/b3n4kh/shodan-ftpsearch
 
 ## Bash Search Automation Tools
 
+* [Netlas Scripts](https://github.com/netlas-io/netlas-scripts)
 * [ShodanVulnCheck](https://github.com/Mavrepis/ShodanVulncheck)
-* []()
 * []()
 * []()
 * []()
@@ -160,7 +162,6 @@ https://github.com/b3n4kh/shodan-ftpsearch
 * [Shodanz](https://github.com/picatz/shodanz)
 * [Shodan Ruby](https://github.com/achillean/shodan-ruby)
 * []()
-
 * []()
 * []()
 * []()
@@ -192,8 +193,7 @@ https://github.com/b3n4kh/shodan-ftpsearch
 
 * [Easy Netlas](https://github.com/I2rys/easy-netlas)
 * [Shodan Client](https://github.com/jesusprubio/shodan-client)
-* https://github.com/picatz/shodan.js
-* []()
+* [Shodan.js](https://github.com/picatz/shodan.js)
 
 * []()
 * []()
@@ -283,24 +283,24 @@ https://github.com/b3n4kh/shodan-ftpsearch
 * [Apache-Struts-Shodan-Exploit](https://github.com/649/Apache-Struts-Shodan-Exploit)
 * [Memcrashed-DDoS-Exploit_withoutShodan](https://github.com/tai-euler/Memcrashed-DDoS-Exploit_withoutShodan)
 * [Crascast Exploit Shodan](https://github.com/649/Crashcast-Exploit)
-https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013
-https://github.com/giaplv57/redisMassExploit
-https://github.com/BlackHoleSun78/memcrashed-ddos
-https://github.com/649/Pingpon-Exploit
-https://github.com/Warflop/IOT-MQTT-Exploit
-https://github.com/649/Memfixed-Mitigation-Tool
-https://github.com/add1ct3d/Memcrashed-DDoS-Exploit-Free
-https://github.com/cys3c/redisMassExploit
-https://github.com/TasosY2K/camera-exploit-tool
-https://github.com/aqhmal/CVE-2019-19781
-https://github.com/aqhmal/pulsexploit
-https://github.com/TechinsightsPro/ShodanFortiOS
-https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464
-https://github.com/ipsBruno/CVE-2022-40140-SCANNER
-https://github.com/faisalfs10x/F5-BIG-IP-CVE-2020-5902-shodan-scanner
-https://github.com/msterhuj/TouDoum-DDoS-Exploit
-https://github.com/Divin-debug/DBLTEKchecker
-https://github.com/faisalfs10x/Cisco-CVE-2020-3452-shodan-scanner
+* [Apache Exploit CVE-2021-42013 Shodan](https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013)
+* [redisMassExploit Shodan](https://github.com/giaplv57/redisMassExploit)
+* [Memcached DDOS Shodan](https://github.com/BlackHoleSun78/memcrashed-ddos)
+* [Pingpon Exploit Shodan](https://github.com/649/Pingpon-Exploit)
+* [IOT MOTT Exploit Shodan](https://github.com/Warflop/IOT-MQTT-Exploit)
+* [Memfixed Mitigation Tool Shodan](https://github.com/649/Memfixed-Mitigation-Tool)
+* [Mecashed DDos Exploit Free Shodan](https://github.com/add1ct3d/Memcrashed-DDoS-Exploit-Free)
+* [Redis Mass Exploit Shodan](https://github.com/cys3c/redisMassExploit)
+* [Camera Exploit Tool Shodan](https://github.com/TasosY2K/camera-exploit-tool)
+* [CVE-2019-19781 Shodan](https://github.com/aqhmal/CVE-2019-19781)
+* [PulseExploit Shodan](https://github.com/aqhmal/pulsexploit)
+* [ShodanFortiOS](https://github.com/TechinsightsPro/ShodanFortiOS)
+* [Mass-exploit-CVE-2022-29464 Shodan](https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464)
+* [CVE-2022-40140-SCANNER Shodan](https://github.com/ipsBruno/CVE-2022-40140-SCANNER)
+* [F5-BIG-IP-CVE-2020-5902 Shodan scanner](https://github.com/faisalfs10x/F5-BIG-IP-CVE-2020-5902-shodan-scanner)
+* [TouDoum-DDoS-Exploit Shodan](https://github.com/msterhuj/TouDoum-DDoS-Exploit)
+* [DBLTEKchecker Shodan](https://github.com/Divin-debug/DBLTEKchecker)
+* [Cisco CVE-2020-3452 Shodan scanner](https://github.com/faisalfs10x/Cisco-CVE-2020-3452-shodan-scanner)
 * []()
 * []()
 * []() 
@@ -310,46 +310,46 @@ https://github.com/faisalfs10x/Cisco-CVE-2020-3452-shodan-scanner
 
 ## Results converting
 
-https://github.com/System00-Security/GShodan
-https://github.com/KrakenMSK/OSINT_Shodan_to_excel
+* [GShodan. JSON to HTML](https://github.com/System00-Security/GShodan)
+* [OSINT_Shodan_to_excel](https://github.com/KrakenMSK/OSINT_Shodan_to_excel)
 
 ## Minecraft Servers Search Tools
 
-https://github.com/k0rnh0li0/GriefBuddy
-https://github.com/KarpF1sh/shodan-minecraft-server-finder
+* [GriefBuddy](https://github.com/k0rnh0li0/GriefBuddy)
+* [Shodan Minecraft Server Finder](https://github.com/KarpF1sh/shodan-minecraft-server-finder)
 
 
 ## GeoSearch Tools 
 
 
-https://github.com/nixintel/ShodanGeoScan
+* [ShodanGeoScan](https://github.com/nixintel/ShodanGeoScan)
 
 
 ## WAF
 
-https://github.com/Warflop/CloudBunny
-https://github.com/karma9874/CloudFlare-IP
+* [CloudBunny Shodan](https://github.com/Warflop/CloudBunny)
+* [CloudFlare-IP Shodan](https://github.com/karma9874/CloudFlare-IP)
 
 
 ## Burp site
-https://github.com/prookl/Burp-Suite-Shodan-Scanner
+* [Burp Suite Shodan Scanner](https://github.com/prookl/Burp-Suite-Shodan-Scanner)
 
 ## Databases Search Tool
-https://github.com/jimywork/djangohunter
-https://github.com/mohwahyudi/mongodb-shodan
+* [Django Hunter](https://github.com/jimywork/djangohunter)
+* [MongoDB Shodan](https://github.com/mohwahyudi/mongodb-shodan)
 
 
 ## Default Credentials Automation Tools
 
 * [RpiGrab (Shodan + RaspBerryPi)](https://github.com/TheSpeedX/rpigrab)
 
-* https://github.com/FoxTheAlmighty/shodan_raspi
+* [Shodan Raspi](https://github.com/FoxTheAlmighty/shodan_raspi)
 
-* https://github.com/greatshi/miner_hack
+* [Miner Hack](https://github.com/greatshi/miner_hack)
 
 ## Dumps
 
-https://github.com/JLospinoso/memcachedump
+* [Memcache Dump Shodan](https://github.com/JLospinoso/memcachedump)
 
 
 ## C2 search tools 
@@ -357,31 +357,27 @@ https://github.com/JLospinoso/memcachedump
 
 * [C2 Netlas Search Java](https://github.com/michael2to3/c2-search-netlas)
 
-https://github.com/montysecurity/C2-Tracker
-https://github.com/LukeBob-zz/C2-Pwn
+* [C2 Tracker Shodan](https://github.com/montysecurity/C2-Tracker)
+* [C2 Pwn Shodan](https://github.com/LukeBob-zz/C2-Pwn)
 
 ## Integrations and plugins
 
-Polarity https://github.com/polarityio/shodan
-URLScan https://github.com/montysecurity/InfraHunter
-Nindo https://github.com/JustinAzoff/ninfo-plugin-shodan
-PhishStats https://github.com/eschultze/phishstats-api-network
-Ansible https://github.com/simeononsecurity/ansible_shodan
+* [Polarity Shodan](https://github.com/polarityio/shodan)
+* [URlScan Shodan](https://github.com/montysecurity/InfraHunter)
+* [Nindo Shodan](https://github.com/JustinAzoff/ninfo-plugin-shodan)
+* [PhishStats Shodan](https://github.com/eschultze/phishstats-api-network)
+* [Ansible Shodan](https://github.com/simeononsecurity/ansible_shodan)
+* [Shodan Postman Collection](https://github.com/bitnesswise/shodan-postman-collection)
 
 ## Monitoring tools 
 
 
-https://github.com/inishantgrover/Shodmon
-
-## Microsoft Sentinel 
-
-
-https://github.com/mikoiv/MicrosoftSentinel-ShodanMonitor
+* [Shodmon](https://github.com/inishantgrover/Shodmon)
+* [Microsoft Sentinel Shodan Monitor](https://github.com/mikoiv/MicrosoftSentinel-ShodanMonitor)
 
 
-## Postman
 
-https://github.com/bitnesswise/shodan-postman-collection
+
 
 
 ## URL fingerprinting tools 
@@ -392,9 +388,9 @@ https://github.com/bitnesswise/shodan-postman-collection
 ## Screenshots automation 
 
 
-https://github.com/swlacy/ShodanScreenshotAutomatorVNC
-https://github.com/GitMirar/shodan-slideshow
-https://github.com/gr4viton/shodaniel
+* [Shodan Screenshot Automator VNC](https://github.com/swlacy/ShodanScreenshotAutomatorVNC)
+* [Shodan Slideshow](https://github.com/GitMirar/shodan-slideshow)
+* [Shodaniel](https://github.com/gr4viton/shodaniel)
 
 
 ## Favicon search Tools
@@ -421,10 +417,10 @@ https://github.com/gr4viton/shodaniel
 * []()
 * []()
 * []()
-* https://github.com/alechilczenko/spidex
+* [Spidex](https://github.com/alechilczenko/spidex)
 * [IVRE (universal)](https://github.com/ivre/ivre)
-* https://github.com/alexsilva1983/eternalseek
-* https://github.com/petercunha/Knock
+* [EternalSeek](https://github.com/alexsilva1983/eternalseek)
+* [Knock](https://github.com/petercunha/Knock)
 
 ## Subdomain Search Tools
 
@@ -456,8 +452,8 @@ https://github.com/gr4viton/shodaniel
 ## Mobile apps
 
 * [Shodan Mobile App](https://github.com/PaulSec/Shodan.io-mobile-app)
-* https://github.com/fooock/shodand
-* * []()
+* [Shodand](https://github.com/fooock/shodand)
+* []()
 * []()
 * []()
 * []()
@@ -467,24 +463,24 @@ https://github.com/gr4viton/shodaniel
 
 ## Discord bots
 
-* [ShodanBot](https://github.com/RocketGod-git/shodanbot)
+* [Discord ShodanBot](https://github.com/RocketGod-git/shodanbot)
 
 
 
 ## IRC bots
 
-https://github.com/ThibaudKieffer/shodanbot
+* [IRC Shodan Bot](https://github.com/ThibaudKieffer/shodanbot
 
 
 ## WhatsApp bots
 
-https://github.com/geek-repo/Whatsapp-shodanBot
+* [Whatsapp ShodanBot](https://github.com/geek-repo/Whatsapp-shodanBot)
 
 
 
 ## Slack bot
 
-https://github.com/vortexau/ShodanSlackBot
+* [ShodanSlackBot](https://github.com/vortexau/ShodanSlackBot)
 
 
 ## API keys search tools
@@ -494,7 +490,7 @@ https://github.com/vortexau/ShodanSlackBot
 
 ## Account generators
 
-https://github.com/Xosrov/Shodan-Generator
+* [Shodan Generator](https://github.com/Xosrov/Shodan-Generator)
 
 
 ## Alternative UI
@@ -502,7 +498,7 @@ https://github.com/Xosrov/Shodan-Generator
 
 * [OSINTUI (Shodan, and Censys)](https://github.com/wssheldon/osintui)
 * [Search Viewer (Fofa, Hunter, Shodan, Quake, Zoomeye, Censys)](https://github.com/G3et/Search_Viewer)
-* https://github.com/jporter-dev/shodan-viz
+* [Shodan VIZ](https://github.com/jporter-dev/shodan-viz)
 
 
 
