@@ -9,22 +9,17 @@
 
 | Link                                   | Github                                                                                                  |  Twitter|
 |-------------------------------------------|----------------------------------------------------------------|------------------------------------------------------|
-|[Netlas](https://app.netlas.io/)  | https://github.com/netlas-io | |
-| [Censys](https://search.censys.io/) | | |
-| [ZoomEye](https://www.zoomeye.org/) | | |
-| [Onyphe](https://www.onyphe.io/)  | | |
-| [GreyNoise](https://viz.greynoise.io/)  | | |
-| [Hunter](https://hunter.how/)  | | |
-| [Fofa](https://en.fofa.info/) | | |
+|[Netlas](https://app.netlas.io/)  | https://github.com/netlas-io | https://twitter.com/Netlas_io |
+| [Censys](https://search.censys.io/) | https://github.com/censys | https://twitter.com/censysio |
+| [ZoomEye](https://www.zoomeye.org/) | | https://twitter.com/zoomeye_team |
+| [Onyphe](https://www.onyphe.io/)  | https://github.com/onyphe | https://twitter.com/onyphe |
+| [GreyNoise](https://viz.greynoise.io/)  | https://github.com/GreyNoise-Intelligence | https://twitter.com/GreyNoiseIO  |
+| [Hunter](https://hunter.how/)  | | https://twitter.com/HunterMapping |
+| [Fofa](https://en.fofa.info/) | https://github.com/FofaInfo | https://twitter.com/fofabot |
 | [Quake 360](https://quake.360.net/quake/#/index)  | | |
-| [Criminal IP](https://www.criminalip.io/) | | |
+| [Criminal IP](https://www.criminalip.io/) | https://github.com/criminalip | https://twitter.com/CriminalIP_US |
 | [0.zone](https://0.zone/) | | |
-| [Shodan](https://www.shodan.io/)  | | |
-
-
-
-??? Twitter ???
-
+| [Shodan](https://www.shodan.io/)  | https://github.com/achillean | https://twitter.com/shodanhq |
 
 
 # Learning Materials
