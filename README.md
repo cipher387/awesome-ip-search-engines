@@ -34,12 +34,8 @@
 * [Shodan Dojo](https://github.com/ninoseki/shodan-dojo)
 * [Censys Search Mindmap](https://github.com/censys-workshop/censys-search-mindmap)
 * [Onyphe Training Materials](https://github.com/onyphe/material)
-* [Public GreyNoise API Documentation](https://github.com/GreyNoise-Intelligence/api.greynoise.io)
+* [GreyNoise API Documentation](https://github.com/GreyNoise-Intelligence/api.greynoise.io)
 * [Awesome FOFA](https://github.com/FofaInfo/Awesome-FOFA)
-* []()
-* []()
-
-
 
 ## "Dorks"/queries Lists
 
