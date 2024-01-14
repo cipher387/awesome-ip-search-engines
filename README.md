@@ -8,7 +8,6 @@
 ## Search Engines
 
 * [Netlas](https://app.netlas.io/) 
-* [Shodan](https://www.shodan.io/) 
 * [Censys](https://search.censys.io/) 
 * [ZoomEye](https://www.zoomeye.org/) 
 * [Onyphe](https://www.onyphe.io/) 
@@ -16,9 +15,11 @@
 * [Hunter](https://hunter.how/) 
 * [Fofa](https://en.fofa.info/)
 * [Quake](https://quake.360.net/quake/#/index) 
-* [Criminal IP](https://www.criminalip.io/) 
+* [Criminal IP](https://www.criminalip.io/)
+* [Shodan](https://www.shodan.io/) 
 
 
+??? Twitter ???
 
 
 
@@ -27,10 +28,10 @@
 
 * [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook)
 * [Shodan Dojo](https://github.com/ninoseki/shodan-dojo)
-* []()
-* []()
-* []()
-* []()
+* [Censys Search Mindmap](https://github.com/censys-workshop/censys-search-mindmap)
+* [Onyphe Training Materials](https://github.com/onyphe/material)
+* [Public GreyNoise API Documentation](https://github.com/GreyNoise-Intelligence/api.greynoise.io)
+* [Awesome FOFA](https://github.com/FofaInfo/Awesome-FOFA)
 * []()
 * []()
 
@@ -57,7 +58,7 @@
 * [Shodan dorks from @nullfuzz](https://github.com/nullfuzz-pentest/shodan-dorks)
 * [Shodan Dorks from @mr-exo](https://github.com/mr-exo/shodan-dorks)
 * [Awesome Shodan Queries](https://github.com/SoumyaJas2324/-jakejarvis-awesome-shodan-queries-)
-* []()
+* [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries)
 * []()
 * []()
 * []()
@@ -74,6 +75,12 @@
 ## Competions
 
 * [Shodan CTF](https://github.com/atz-spe/SHODAN-CTF)
+* [NoiseFest CTF 2023](https://github.com/GreyNoise-Intelligence/NoiseFest-CTF-2023)
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
 
@@ -96,11 +103,21 @@
 * [Shodan_So](https://github.com/zev3n/Shodan_So)
 * [Shodan Seeker](https://github.com/laincode/shodan-seeker)
 * [Shogun](https://github.com/NullArray/Shogun)
+* [Censys Python](https://github.com/censys/censys-python)
+* [ZoomEye Python](https://github.com/knownsec/ZoomEye-python)
+* [PyOnyphe](https://github.com/n4xh4ck5/pyonyphe)
+* [AIOOnyphe](https://github.com/koromodako/aionyphe)
+* [PyGreyNoise](https://github.com/GreyNoise-Intelligence/pygreynoise)
+* [PyHunter](https://github.com/VonStruddle/PyHunter)
+* [FofaMap](https://github.com/asaotomo/FofaMap)
+* [FofaHack](https://github.com/Cl0udG0d/Fofa-hack)
+* [X-Fofa](https://github.com/sv3nbeast/X-Fofa)
 * []()
 * []()
 * []()
 * []()
-* []()
+
+* [NoMoney (universal)](https://github.com/H-Limbus/NoMoney)
 * [Searpy (universal)](https://github.com/j3ers3/Searpy)
 * [Sarenka (universal)](https://github.com/KTZgraph/sarenka)
 * [CyberSpace Map API](https://github.com/Xc1Ym/cyberspace_map_API)
@@ -121,7 +138,7 @@
 
 * [Netlas Scripts](https://github.com/netlas-io/netlas-scripts)
 * [ShodanVulnCheck](https://github.com/Mavrepis/ShodanVulncheck)
-* []()
+* [GreyNoise Bash Scripts](https://github.com/0x4rk0/greynoise)
 * []()
 * []()
 * []()
@@ -135,7 +152,11 @@
 * [Netlas Java Library](https://github.com/michael2to3/netlas-java)
 * [JShodan](https://github.com/fooock/jshodan)
 * [Shodan Scanner](https://github.com/nikos-glikis/ShodanScanner)
-* []()
+* [ZoomEye App](https://github.com/daviddone/ZoomEye_APP)
+* [GreyNoise4j](https://github.com/bfu4/greynoise4j)
+* [Fofa Viewer](https://github.com/wgpsec/fofa_viewer)
+* [fofaEX](https://github.com/10cks/fofaEX)
+* [Fofa Java](https://github.com/fofapro/fofa-java)
 * []()
 * []()
 * []()
@@ -149,10 +170,18 @@
 * [Shodanidb (Fetch data (open ports, CVEs, CPEs, ...) from shodan internetDB API)](https://github.com/s4hm4d/shodanidb)
 * [Xray (Shodan)](https://github.com/evilsocket/xray)
 * [SteamPipe Shodan Plugin](https://github.com/turbot/steampipe-plugin-shodan)
+* [GoCensys](https://github.com/abadojack/gocensys)
+* [ZoomEye Go](https://github.com/gyyyy/ZoomEye-go)
+* [GreyNoise](https://github.com/securityclippy/greynoise)
+* [GO GreyNoise](https://github.com/patrobinson/go-greynoise)
+* [FoFax](https://github.com/xiecat/fofax)
+* [Fofa Go](https://github.com/fofapro/fofa-go)
+* [Fofa Dump](https://github.com/TardC/fofadump)
 * []()
 * []()
-* []()
-* []()
+
+
+
 
 
 
@@ -161,9 +190,9 @@
 
 * [Shodanz](https://github.com/picatz/shodanz)
 * [Shodan Ruby](https://github.com/achillean/shodan-ruby)
-* []()
-* []()
-* []()
+* [Censys Ruby](https://github.com/trailofbits/censys-ruby)
+* [Onyphe RB](https://github.com/ninoseki/onyphe-rb)
+* [GreyNoise](https://github.com/ninoseki/greynoise)
 * []()
 * []()
 * []()
@@ -207,8 +236,8 @@
 
 * [Posh Shodan](https://github.com/darkoperator/Posh-Shodan)
 * [Shodan PS](https://github.com/simeononsecurity/Shodan_PS)
-* []()
-* []()
+* [Use Onyphe](https://github.com/MS-LUF/Use-Onyphe)
+* [GreyNoise PS](https://github.com/AndrewPla/GreyNoisePS)
 * []()
 * []()
 * []()
@@ -237,6 +266,11 @@
 
 ## Perl Search Automation Tools
 * [Shodan Perk](https://github.com/achillean/shodan-perl)
+* [Onyphe CLI](https://github.com/onyphe/cli)
+* []()
+* []()
+
+
 
 
 
@@ -251,6 +285,14 @@
 ## R Search Automation Tools
 
 * [Shodan R Package](https://github.com/hrbrmstr/shodan)
+* [Censys R Package](https://github.com/hrbrmstr/censys)
+* [GreyNoise R Package](https://github.com/hrbrmstr/greynoise)
+* []()
+* []()
+* []()
+* []()
+
+
 
 
 ## Rust Search Automation Tools
@@ -264,8 +306,8 @@
 * [Kamerka (Shodan)](https://github.com/woj-ciech/kamerka)
 * [Fire Shodan Map](https://github.com/Warflop/FireShodanMap)
 * [Shomap](https://github.com/woj-ciech/Shomap)
+* [GreyNoise Visualizer](https://github.com/cbuto/greynoise-visualizer)
 
-* []()
 * []()
 * []()
 * []()
@@ -312,6 +354,9 @@
 
 * [GShodan. JSON to HTML](https://github.com/System00-Security/GShodan)
 * [OSINT_Shodan_to_excel](https://github.com/KrakenMSK/OSINT_Shodan_to_excel)
+* [Common Osint Model Converter (Shodan and Censys)](https://github.com/3c7/common-osint-model)
+
+
 
 ## Minecraft Servers Search Tools
 
@@ -327,12 +372,20 @@
 
 ## WAF
 
-* [CloudBunny Shodan](https://github.com/Warflop/CloudBunny)
+* [CloudBunny Shodan/Censys](https://github.com/Warflop/CloudBunny)
 * [CloudFlare-IP Shodan](https://github.com/karma9874/CloudFlare-IP)
+* [CloudFlair Censys](https://github.com/christophetd/CloudFlair)
 
 
 ## Burp site
 * [Burp Suite Shodan Scanner](https://github.com/prookl/Burp-Suite-Shodan-Scanner)
+* [Burp Fofa](https://github.com/0nise/burp-fofa)
+* []()
+* []() 
+* []()
+* []()
+
+
 
 ## Databases Search Tool
 * [Django Hunter](https://github.com/jimywork/djangohunter)
@@ -368,12 +421,38 @@
 * [PhishStats Shodan](https://github.com/eschultze/phishstats-api-network)
 * [Ansible Shodan](https://github.com/simeononsecurity/ansible_shodan)
 * [Shodan Postman Collection](https://github.com/bitnesswise/shodan-postman-collection)
+* [Shodan Maltego](https://www.maltego.com/transform-hub/shodan/)
+* [Maltego Censys Unofficial](https://github.com/mpars0ns/maltego_censys)
+* [Maltego Censys Official](https://github.com/censys/censys-maltego)
+* [Recon NG Censys](https://github.com/censys/censys-recon-ng)
+* [Censys Postman Collection](https://github.com/censys/censys-postman)
+* [ThreatFox Censys](https://github.com/censys-workshop/threatfox-censys)
+* [Synapse Onyphe](https://github.com/ancailliau/synapse-onyphe)
+* [GreyNoise Maltego](https://github.com/GreyNoise-Intelligence/greynoise-maltego)
+* [Ansible GreyNoise](https://github.com/ReconInfoSec/ansible-greynoise)
+* [LogStash Filter GreyNoise](https://github.com/GreyNoise-Intelligence/logstash-filter-greynoise)
+* [Polarity GreyNoise](https://github.com/polarityio/greynoise)
+* [Siemplify GreyNoise](https://github.com/GreyNoise-Intelligence/greynoise-siemplify)
+* [Demisto GreyNoise](https://github.com/GreyNoise-Intelligence/greynoise-demisto)
+* [Swinlane GreyNoise](https://github.com/GreyNoise-Intelligence/greynoise-swimlane)
+* [Fofa Xray Plugin](https://github.com/Miagz/XrayFofa)
+* []()
+
+
+
+
+
 
 ## Monitoring tools 
 
 
 * [Shodmon](https://github.com/inishantgrover/Shodmon)
 * [Microsoft Sentinel Shodan Monitor](https://github.com/mikoiv/MicrosoftSentinel-ShodanMonitor)
+* [GreyWatch (GreyNoise)](https://github.com/hrbrmstr/greywatch)
+* []()
+* []()
+* []()
+* []()
 
 
 
@@ -385,12 +464,16 @@
 * [Shimon](https://github.com/ninoseki/shimon)
 
 
-## Screenshots automation 
+## VNC Screenshots Automation 
 
 
 * [Shodan Screenshot Automator VNC](https://github.com/swlacy/ShodanScreenshotAutomatorVNC)
 * [Shodan Slideshow](https://github.com/GitMirar/shodan-slideshow)
 * [Shodaniel](https://github.com/gr4viton/shodaniel)
+* [Pirate VPS](https://github.com/superswan/Pirate-VPS)
+* []()
+
+
 
 
 ## Favicon search Tools
@@ -401,7 +484,7 @@
 * [IconHash](https://github.com/Becivells/iconhash)
 * [Favicon Hash Shodan](https://github.com/phor3nsic/favicon_hash_shodan)
 * [Get IP by ICO](https://github.com/Ridter/get_ip_by_ico)
-* []()
+* [FaviHunter](https://github.com/eremit4/favihunter)
 * []()
 * []()
 
@@ -414,7 +497,9 @@
 * [Masscan Automation (Shodan)](https://github.com/trevordavenport/MasscanAutomation)
 * [ShoScan](https://github.com/pathetiq/ShoScan)
 * [Silver (Shodan)](https://github.com/s0md3v/Silver)
-* []()
+* [Censys HTTP Proxy Scan](https://github.com/LoveCppp/Http-Proxy-Scan)
+* [Nmap Censys](https://github.com/censys/nmap-censys)
+* [MEC (ZoomEye)](https://github.com/jm33-m0/mec)
 * []()
 * []()
 * [Spidex](https://github.com/alechilczenko/spidex)
@@ -427,9 +512,9 @@
 * [Shodomain](https://github.com/SmoZy92/Shodomain)
 * [Punter](https://github.com/nethunteros/punter)
 * [ShoSubGo](https://github.com/incogbyte/shosubgo)
-* []()
-* []()
-* []()
+* [Censys Subdomain Finder](https://github.com/christophetd/censys-subdomain-finder)
+* [Censys Enumeration](https://github.com/0xbharath/censys-enumeration)
+* [Censys Subdomain Finder (no API)](https://github.com/nmmapper/censys-subdomain-finder-non-api)
 * []()
 * []()
 * []()
@@ -440,8 +525,8 @@
 
 * [Netlas.io Chrome Extension](https://chromewebstore.google.com/detail/netlasio/pncoieihjcmpooceknjajojehmhdedii?hl=en-GB)
 * [Shodan Firefox addon](https://github.com/PaulSec/Shodan-Firefox-Addon)
-* []()
-* []()
+* [ZoomEye Tools](https://github.com/knownsec/Zoomeye-Tools)
+* [Fofa View](https://github.com/fofapro/fofa_view)
 * []()
 * []()
 * []()
@@ -453,8 +538,8 @@
 
 * [Shodan Mobile App](https://github.com/PaulSec/Shodan.io-mobile-app)
 * [Shodand](https://github.com/fooock/shodand)
-* []()
-* []()
+* [ZoomEye Android SDK API](https://github.com/donglua/ZoomEye-API)
+* [ZoomEye Android](https://github.com/donglua/ZoomEyeAndroid)
 * []()
 * []()
 * []()
@@ -480,7 +565,10 @@
 
 ## Slack bot
 
-* [ShodanSlackBot](https://github.com/vortexau/ShodanSlackBot)
+* [Shodan Slack Bot](https://github.com/vortexau/ShodanSlackBot)
+* [CensysIP for Slack](https://github.com/jgamblin/censysip-for-slack)
+
+
 
 
 ## API keys search tools
@@ -516,6 +604,17 @@
 * []()
 * []()
 * []()
+
+
+## AI Help Tools
+
+
+* [GreyNoise AI Chatbot](https://github.com/zaidmukaddam/greynoise-chatbot)
+* [Censys GPT Beta](https://gpt.censys.io/)
+
+
+
+
 
 
 
