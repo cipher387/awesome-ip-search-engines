@@ -9,7 +9,7 @@
 
 | Link                                   | Github                                                                                                  |  Twitter|
 |-------------------------------------------|----------------------------------------------------------------|------------------------------------------------------|
-|[Netlas](https://app.netlas.io/)  | | |
+|[Netlas](https://app.netlas.io/)  | https://github.com/netlas-io | |
 | [Censys](https://search.censys.io/) | | |
 | [ZoomEye](https://www.zoomeye.org/) | | |
 | [Onyphe](https://www.onyphe.io/)  | | |
