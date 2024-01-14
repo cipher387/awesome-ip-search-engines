@@ -1,7 +1,7 @@
 
 
 
-# Ip search engines
+# Awesome IP Search Engines
 
 
 
@@ -24,8 +24,10 @@
 
 
 
+# Learning Materials
 
-## Learning Materials
+
+## Guides/documentations
 
 * [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook)
 * [Shodan Dojo](https://github.com/ninoseki/shodan-dojo)
@@ -66,6 +68,8 @@
 * [NoiseFest CTF 2023](https://github.com/GreyNoise-Intelligence/NoiseFest-CTF-2023)
 
 
+
+# Tools
 
 
 ## Integrations and plugins
@@ -272,7 +276,6 @@
 * [ZoomEye Android](https://github.com/donglua/ZoomEyeAndroid)
 
 
-
 ## Discord Bots
 
 * [Discord ShodanBot](https://github.com/RocketGod-git/shodanbot)
@@ -317,11 +320,7 @@
 
 
 
-
-
-
-
-
+# Search tools written in different programming languages
 
 
 
