@@ -8,6 +8,8 @@
      <br>
      The repository can be useful for professionals in different areas of cybersecurity.
      <br>
+    !Warning! Many of the projects linked below may not be finished or may be out of date. But I think that their open source code can be useful for the reader to work on their own projects to automate work with IP Search engines.
+    </br>
 </div>
 
 
