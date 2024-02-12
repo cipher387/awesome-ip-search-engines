@@ -26,6 +26,8 @@
   - [Books](#books)
  
   - [Videos](#videos)
+ 
+  - [Articles](#articles)
 
   - ["Dorks"/queries Lists](#dorksqueries-lists)
 
@@ -184,6 +186,26 @@
 * [NEW CYBER SECURITY TOOL YOU MIGHT NEED IN 2024 FOFA Search engine for IoT. Busy Hacker](https://www.youtube.com/watch?v=2Z_BlF51xPY)
 
 
+
+
+## Articles
+
+
+
+* [When you need search by nickname in public IP addresses search engines (Shodan, Netlas, Fofa etc)](https://medium.com/osint-ambition/when-you-need-search-by-nickname-in-public-ip-addresses-search-engines-shodan-netlas-fofa-etc-59d92af047cc)
+* [Shodan Search Engine Intro](https://medium.com/the-first-digit/shodan-search-engine-intro-59cb2709d7f8)
+* [Exploring the dark side of Shodan](https://medium.com/@droobingnoob/exploring-the-dark-side-of-shodan-3efbc8897ad3)
+* [Shodan Dorks - The God’s Eye](https://medium.com/@shahjerry33/shodan-dorks-the-gods-eye-f224f9b3984f)
+* [Find & Hack Vulnerable Databases With Shodan](https://medium.com/@bhichher/find-hack-vulnerable-databases-with-shodan-75d5aecc7675)
+* [Censys Search Engine Intro](https://medium.com/@warnerchad/censys-search-engine-intro-d502d9839c1c)
+* [Netlas.io — Best OSINT Tool in Cybersecurity Industry](https://medium.com/illumination/netlas-io-best-osint-tool-in-cybersecurity-industry-0e9e2e28bfee)
+* [Netlas Recon Automation with Nuclei: Neuro](https://medium.com/bug-bounty-hunting/netlas-recon-automation-with-nuclei-neuro-839cbb4d9fbd)
+* [How to find unprotected databases with Netlas.io: Chapter 1](https://medium.com/osint-ambition/how-to-find-unprotected-databases-with-netlas-io-2bf186e9fc2d)
+* [How to find unprotected databases with Netlas.io: Chapter 2](https://medium.com/@netlas/how-to-find-unprotected-databases-with-netlas-io-chapter-2-ba71b07c9630)
+* [How to find probably vulnerable objects in your own surface with Netlas.io?](https://medium.com/system-weakness/how-to-find-probably-vulnerable-objects-in-your-own-surface-with-netlas-io-7f3448363892)
+* [How to use Censys CLI for Bug Bounty](https://medium.com/system-weakness/how-to-use-censys-cli-for-bug-bounty-96c167bba924)
+* [Using Shodan Better Way](https://medium.com/bugbountywriteup/using-shodan-better-way-b40f330e45f6)
+* [How I got RXSS from Shodan](https://medium.com/@melguerdawi/how-i-get-rxss-from-shodan-31d63be9b31)
 
 
 
