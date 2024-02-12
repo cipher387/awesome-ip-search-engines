@@ -23,6 +23,8 @@
 
   - [Guides/documentations](#guidesdocumentations)
 
+  - [Books](#books)
+
   - ["Dorks"/queries Lists](#dorksqueries-lists)
 
   - [Competions](#competions)
@@ -149,6 +151,19 @@
 * [Onyphe Training Materials](https://github.com/onyphe/material)
 * [GreyNoise API Documentation](https://github.com/GreyNoise-Intelligence/api.greynoise.io)
 * [Awesome FOFA](https://github.com/FofaInfo/Awesome-FOFA)
+
+
+
+  
+## Books
+
+* [Complete Guide to Shodan. Collect. Analyze. Visualize. Make Internet Intelligence Work for You. John Matherly. 2016 ](https://ia800705.us.archive.org/17/items/shodan-book-extras/shodan/shodan.pdf)
+* [Building an IOT Search Engine using Django and Shodan's REST API. Chavez Harris. 2020 ](https://www.amazon.com/Building-Search-Engine-Django-Shodans-ebook/dp/B086WQKWZK/ref=sr_1_4?crid=2MC74YTBZCZW2&keywords=shodan&qid=1707725204&s=digital-text&sprefix=shodan%2Cdigital-text%2C245&sr=1-4)
+* [OSINT Cracking Tools: Maltego, Shodan, Aircrack-Ng, Recon-Ng. Rob Botwright. 2024](https://www.amazon.com/OSINT-Cracking-Tools-Aircrack-Ng-Recon-Ng-ebook/dp/B0CRJX3W2Y/ref=sr_1_10?crid=2MC74YTBZCZW2&keywords=shodan&qid=1707725332&s=digital-text&sprefix=shodan%2Cdigital-text%2C245&sr=1-10)
+* [An Iot Search Engine Truth: Utilizing Django And Shodan'S Rest API. Darcey Tredennick. 2023](https://www.amazon.com/Iot-Search-Engine-Truth-Utilizing-ebook/dp/B0BZY6CB7Q/ref=sr_1_25?crid=2MC74YTBZCZW2&keywords=shodan&qid=1707725449&s=digital-text&sprefix=shodan%2Cdigital-text%2C245&sr=1-25)
+* [An Iot Search Tool: How To Combine Django And Shodan'S Api. Mack Gainey. 2023](https://www.amazon.com/Iot-Search-Tool-Combine-ShodanS-ebook/dp/B0BZY2XKRB/ref=sr_1_33?crid=2MC74YTBZCZW2&keywords=shodan&qid=1707725590&s=digital-text&sprefix=shodan%2Cdigital-text%2C245&sr=1-33)
+
+
 
 ## "Dorks"/queries Lists
 
