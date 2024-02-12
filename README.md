@@ -24,6 +24,8 @@
   - [Guides/documentations](#guidesdocumentations)
 
   - [Books](#books)
+ 
+  - [Videos](#videos)
 
   - ["Dorks"/queries Lists](#dorksqueries-lists)
 
@@ -162,6 +164,26 @@
 * [OSINT Cracking Tools: Maltego, Shodan, Aircrack-Ng, Recon-Ng. Rob Botwright. 2024](https://www.amazon.com/OSINT-Cracking-Tools-Aircrack-Ng-Recon-Ng-ebook/dp/B0CRJX3W2Y/ref=sr_1_10?crid=2MC74YTBZCZW2&keywords=shodan&qid=1707725332&s=digital-text&sprefix=shodan%2Cdigital-text%2C245&sr=1-10)
 * [An Iot Search Engine Truth: Utilizing Django And Shodan'S Rest API. Darcey Tredennick. 2023](https://www.amazon.com/Iot-Search-Engine-Truth-Utilizing-ebook/dp/B0BZY6CB7Q/ref=sr_1_25?crid=2MC74YTBZCZW2&keywords=shodan&qid=1707725449&s=digital-text&sprefix=shodan%2Cdigital-text%2C245&sr=1-25)
 * [An Iot Search Tool: How To Combine Django And Shodan'S Api. Mack Gainey. 2023](https://www.amazon.com/Iot-Search-Tool-Combine-ShodanS-ebook/dp/B0BZY2XKRB/ref=sr_1_33?crid=2MC74YTBZCZW2&keywords=shodan&qid=1707725590&s=digital-text&sprefix=shodan%2Cdigital-text%2C245&sr=1-33)
+
+
+
+## Videos
+
+
+* [Shodan Search Engine Tutorial - Access Routers,Servers,Webcams + Install CLI. Hacker Sploit](https://www.youtube.com/watch?v=v2EdwgX72PQ)
+* [Information Gathering With Shodan. Hacker Sploit](https://www.youtube.com/watch?v=_DlGhlUkbwk)
+* [TryHackMe Shodan Official Walkthrough. DarcSec](https://www.youtube.com/watch?v=5Ko6GUqY2m0)
+* [Aaron Jones: Introduction to Shodan. Brian Cluff.](https://www.youtube.com/watch?v=01dLzan9g0E)
+* [The Power of Shodan: Leveraging Shodan for Critical Vulnerabilities. NahamSec](https://www.youtube.com/watch?v=WgMGLlpznao)
+* [Hack Cameras & More With Shodan Like Mr. Robot. zSecurity](https://www.youtube.com/watch?v=lbJTJG6NvV4)
+* [Bug Bounty Recon With Shodan. Ryan John](https://www.youtube.com/watch?v=cNCN-XnClMI)
+* [DEF CON 18 - Michael Schearer - SHODAN for Penetration Testers. DEFCONConference](https://www.youtube.com/watch?v=js840O9zHTE)
+* [Hunting for ICS and Other Tricks on Shodan! Cody Bernardy](https://www.youtube.com/watch?v=bZUnQR4bdT8)
+* [Netlas.io Attack Surface Discovery tool. Netlas](https://www.youtube.com/watch?v=98s-Iu5MyRw)
+* [The Censys Internet Map. Censys](https://www.youtube.com/watch?v=GqP0LxpUwVY)
+* [NEW CYBER SECURITY TOOL YOU MIGHT NEED IN 2024 FOFA Search engine for IoT. Busy Hacker](https://www.youtube.com/watch?v=2Z_BlF51xPY)
+
+
 
 
 
