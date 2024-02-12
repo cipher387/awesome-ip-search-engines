@@ -149,7 +149,7 @@
 
 ## Guides/documentations
 
-* [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook)
+* :heartpulse: [Netlas Cookbook](https://github.com/netlas-io/netlas-cookbook) :heartpulse:
 * [Shodan Dojo](https://github.com/ninoseki/shodan-dojo)
 * [Censys Search Mindmap](https://github.com/censys-workshop/censys-search-mindmap)
 * [Onyphe Training Materials](https://github.com/onyphe/material)
