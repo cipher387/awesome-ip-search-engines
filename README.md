@@ -181,7 +181,7 @@
 * [Bug Bounty Recon With Shodan. Ryan John](https://www.youtube.com/watch?v=cNCN-XnClMI)
 * [DEF CON 18 - Michael Schearer - SHODAN for Penetration Testers. DEFCONConference](https://www.youtube.com/watch?v=js840O9zHTE)
 * [Hunting for ICS and Other Tricks on Shodan! Cody Bernardy](https://www.youtube.com/watch?v=bZUnQR4bdT8)
-* [Netlas.io Attack Surface Discovery tool. Netlas](https://www.youtube.com/watch?v=98s-Iu5MyRw)
+* [:heartpulse:Netlas.io Attack Surface Discovery tool. Netlas :heartpulse:](https://www.youtube.com/watch?v=98s-Iu5MyRw)
 * [The Censys Internet Map. Censys](https://www.youtube.com/watch?v=GqP0LxpUwVY)
 * [NEW CYBER SECURITY TOOL YOU MIGHT NEED IN 2024 FOFA Search engine for IoT. Busy Hacker](https://www.youtube.com/watch?v=2Z_BlF51xPY)
 
@@ -198,11 +198,11 @@
 * [Shodan Dorks - The God’s Eye](https://medium.com/@shahjerry33/shodan-dorks-the-gods-eye-f224f9b3984f)
 * [Find & Hack Vulnerable Databases With Shodan](https://medium.com/@bhichher/find-hack-vulnerable-databases-with-shodan-75d5aecc7675)
 * [Censys Search Engine Intro](https://medium.com/@warnerchad/censys-search-engine-intro-d502d9839c1c)
-* [Netlas.io — Best OSINT Tool in Cybersecurity Industry](https://medium.com/illumination/netlas-io-best-osint-tool-in-cybersecurity-industry-0e9e2e28bfee)
-* [Netlas Recon Automation with Nuclei: Neuro](https://medium.com/bug-bounty-hunting/netlas-recon-automation-with-nuclei-neuro-839cbb4d9fbd)
-* [How to find unprotected databases with Netlas.io: Chapter 1](https://medium.com/osint-ambition/how-to-find-unprotected-databases-with-netlas-io-2bf186e9fc2d)
-* [How to find unprotected databases with Netlas.io: Chapter 2](https://medium.com/@netlas/how-to-find-unprotected-databases-with-netlas-io-chapter-2-ba71b07c9630)
-* [How to find probably vulnerable objects in your own surface with Netlas.io?](https://medium.com/system-weakness/how-to-find-probably-vulnerable-objects-in-your-own-surface-with-netlas-io-7f3448363892)
+* [:heartpulse:Netlas.io — Best OSINT Tool in Cybersecurity Industry:heartpulse:](https://medium.com/illumination/netlas-io-best-osint-tool-in-cybersecurity-industry-0e9e2e28bfee)
+* [:heartpulse:Netlas Recon Automation with Nuclei: Neuro:heartpulse:](https://medium.com/bug-bounty-hunting/netlas-recon-automation-with-nuclei-neuro-839cbb4d9fbd)
+* [:heartpulse:How to find unprotected databases with Netlas.io: Chapter 1:heartpulse:](https://medium.com/osint-ambition/how-to-find-unprotected-databases-with-netlas-io-2bf186e9fc2d)
+* [:heartpulse:How to find unprotected databases with Netlas.io: Chapter 2:heartpulse:](https://medium.com/@netlas/how-to-find-unprotected-databases-with-netlas-io-chapter-2-ba71b07c9630)
+* [:heartpulse:How to find probably vulnerable objects in your own surface with Netlas.io?:heartpulse:](https://medium.com/system-weakness/how-to-find-probably-vulnerable-objects-in-your-own-surface-with-netlas-io-7f3448363892)
 * [How to use Censys CLI for Bug Bounty](https://medium.com/system-weakness/how-to-use-censys-cli-for-bug-bounty-96c167bba924)
 * [Using Shodan Better Way](https://medium.com/bugbountywriteup/using-shodan-better-way-b40f330e45f6)
 * [How I got RXSS from Shodan](https://medium.com/@melguerdawi/how-i-get-rxss-from-shodan-31d63be9b31)
@@ -212,7 +212,7 @@
 ## "Dorks"/queries Lists
 
 
-* [Netlas dorks](https://github.com/netlas-io/netlas-dorks)
+* [:heartpulse:Netlas dorks:heartpulse:](https://github.com/netlas-io/netlas-dorks)
 * [Awesome Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries)
 * [Shodan Dorks from @lothos612](https://github.com/lothos612/shodan)
 * [Shodan filters](https://github.com/JavierOlmedo/shodan-filters)
@@ -315,7 +315,6 @@
 
 * [Tentacle (Zoomeye, Fofa, Shodan)](https://github.com/orleven/Tentacle)
 * [ShodanWave, Netwave IP Cameras search and exploit tool](https://github.com/jimywork/shodanwave)
-* https://github.com/vanpersiexp/expcamera
 * [Memcrashed-DDoS-Exploit (Shodan)](https://github.com/649/)
 * [Memcache Dump Shodan](https://github.com/JLospinoso/memcachedump)
 * [Apache-Struts-Shodan-Exploit](https://github.com/649/Apache-Struts-Shodan-Exploit)
@@ -496,10 +495,10 @@
 
 ## Python Search Automation Tools
 
-* [Netlas Official Python Library](https://github.com/netlas-io/netlas-python)
-* [Netlas Email Search Python](https://github.com/soxoj/netlas-email-search)
+* [:heartpulse:Netlas Official Python Library:heartpulse:](https://github.com/netlas-io/netlas-python)
+* [:heartpulse:Netlas Email Search Python:heartpulse:](https://github.com/soxoj/netlas-email-search)
 * [Neuro. Netlas vulnerabilities search automation using Nuclei templates](https://github.com/humblelad/neuro)
-* [Netlass Python Library (Netlas search)](https://github.com/rly0nheart/netlasso)
+* [:heartpulse:Netlass Python Library (Netlas search):heartpulse:](https://github.com/rly0nheart/netlasso)
 * [Shodan Python Library](https://github.com/achillean/shodan-python)
 * ["My Shodan scripts"](https://github.com/random-robbie/My-Shodan-Scripts)
 * [Shodan Eye](https://github.com/BullsEye0/shodan-eye)
@@ -538,7 +537,7 @@
 
 ## Bash Search Automation Tools
 
-* [Netlas Scripts](https://github.com/netlas-io/netlas-scripts)
+* [:heartpulse:Netlas Scripts:heartpulse:](https://github.com/netlas-io/netlas-scripts)
 * [ShodanVulnCheck](https://github.com/Mavrepis/ShodanVulncheck)
 * [GreyNoise Bash Scripts](https://github.com/0x4rk0/greynoise)
 
