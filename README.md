@@ -272,6 +272,12 @@
 * [Criminal IP Volatility](https://github.com/criminalip/Criminalip-Volatility3-Plugins)
 * [Criminal IP Tenable](https://github.com/criminalip/CriminalIP-Tenable-Import-Asset)
 * [Criminal Ip Zabbix](https://github.com/criminalip/zabbix)
+* [:heartpulse:Netlas Reingine:heartpulse:](https://netlas.medium.com/using-rengine-with-netlas-io-module-436e764a5495)
+* [:heartpulse:Netlas Subfinder:heartpulse:](https://netlas.medium.com/using-subfinder-with-netlas-io-module-9e7fa4e630dd)
+* [:heartpulse:Netlas Tines Automations:heartpulse:](https://netlas.medium.com/using-netlas-io-within-tines-automations-31518289e5e3)
+* [:heartpulse:Netlas Owasp Amass:heartpulse:](https://netlas.medium.com/using-owasp-amass-with-netlas-io-module-cb7308669ecd)
+* [:heartpulse:Netlas Uncover:heartpulse:](https://netlas.medium.com/using-uncover-with-netlas-io-module-77b82157ccc4)
+* [:heartpulse:Netlas Maltego:heartpulse:](https://publication.osintambition.org/using-maltego-with-netlas-io-plugin-b3b17bd0881b)
 
 
 ## Favicon search Tools
