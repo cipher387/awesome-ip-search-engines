@@ -230,6 +230,24 @@
 
 
 
+## IOT search queries online direcories
+
+* [ICSRank](http://icsrank.com)
+
+
+
+## Cheat Sheets
+
+
+* [Shodan Search Engine for Pentester Cheat Sheet](https://twitter.com/hackinarticles/status/1728333851632578638)
+* [Sir Slammington Shodan Cheatsheet](https://cheatography.com/sir-slammington/cheat-sheets/shodan/)
+* [Censys Search Cheat Sheet by himajedi](https://cheatography.com/himajedi/cheat-sheets/censys-search/)
+* [:heartpulse:50 most common Netlas search filters:heartpulse:](https://twitter.com/Netlas_io/status/1719625320565813394)
+* [ONYPHE cheatsheet](https://www.onyphe.io/files/onyphecheatsheetfreeview.pdf)
+* [Cyber Writes Shodan Cheat Sheet](https://twitter.com/_SaxX_/status/1677057137241993219)
+* [Short Shodan Search Operatos Cheat Sheet](https://t.co/TGhQU6g4uW)
+
+
 
 ## Competions
 
