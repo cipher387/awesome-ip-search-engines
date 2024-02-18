@@ -30,6 +30,8 @@
   - [Articles](#articles)
 
   - ["Dorks"/queries Lists](#dorksqueries-lists)
+ 
+  - [Cheat sheets](#cheat-sheets)
 
   - [Competions](#competions)
 
