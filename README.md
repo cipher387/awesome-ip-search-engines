@@ -208,6 +208,7 @@
 * [How to use Censys CLI for Bug Bounty](https://medium.com/system-weakness/how-to-use-censys-cli-for-bug-bounty-96c167bba924)
 * [Using Shodan Better Way](https://medium.com/bugbountywriteup/using-shodan-better-way-b40f330e45f6)
 * [How I got RXSS from Shodan](https://medium.com/@melguerdawi/how-i-get-rxss-from-shodan-31d63be9b31)
+* [A Beginner’s Guide to Tracking Malware Infrastructure (Censys)](https://censys.com/a-beginners-guide-to-tracking-malware-infrastructure/)
 
 
 
