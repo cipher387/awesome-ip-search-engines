@@ -528,6 +528,7 @@
 * [:heartpulse:Netlass Python Library (Netlas search):heartpulse:](https://github.com/rly0nheart/netlasso)
 * [Shodan Python Library](https://github.com/achillean/shodan-python)
 * ["My Shodan scripts"](https://github.com/random-robbie/My-Shodan-Scripts)
+* [ShodanX](https://github.com/sanjai-AK47/ShodanX)
 * [Shodan Eye](https://github.com/BullsEye0/shodan-eye)
 * [ShodanHat](https://github.com/HatBashBR/ShodanHat)
 * [ShodanSploit](https://github.com/shodansploit/shodansploit)
