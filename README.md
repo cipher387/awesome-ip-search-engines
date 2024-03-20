@@ -230,6 +230,7 @@
 * [Awesome Censys Queries](https://github.com/thehappydinoa/awesome-censys-queries)
 * [IoT Dorks](https://github.com/IoT-PTv/IoT-Dorks)
 * [CCTV DDNS Shodan Censys Queries](https://github.com/zveriu/cctv-ddns-shodan-censys)
+* [Kitploit Shodan dorks list](https://www.kitploit.com/2024/03/shodan-dorks.html)
 
 
 
