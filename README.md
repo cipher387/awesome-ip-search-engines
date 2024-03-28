@@ -552,6 +552,7 @@
 * [360Quake](https://github.com/test502git/360Quake)
 * [360quake_view](https://github.com/521nwp/360quake_view)
 * [PyCriminalIP](https://github.com/haginara/PyCriminalIP)
+* [CruminalIP Python](https://github.com/choisg/criminalip-python)
 * [SherlockSight (Criminal IP)](https://github.com/Aidennnn33/sherlocksight)
 * [Ozone Tool](https://github.com/wkend/0_zone_tool)
 * [NoMoney (universal)](https://github.com/H-Limbus/NoMoney)
