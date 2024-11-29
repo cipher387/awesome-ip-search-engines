@@ -143,7 +143,7 @@
 | [Quake 360](https://quake.360.net/quake/#/index)  | | |
 | [Criminal IP](https://www.criminalip.io/) | https://github.com/criminalip | https://twitter.com/CriminalIP_US |
 | [0.zone](https://0.zone/) | | |
-| [ODIN](https://search.odin.io/) |  | https://x.com/OdinThreatIntel |
+| [ODIN](https://search.odin.io/) | https://github.com/cybledev | https://x.com/OdinThreatIntel |
 | [Shodan](https://www.shodan.io/)  | https://github.com/achillean | https://twitter.com/shodanhq |
 
 
