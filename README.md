@@ -569,6 +569,7 @@
 ## Bash Search Automation Tools
 
 * [:heartpulse:Netlas Scripts:heartpulse:](https://github.com/netlas-io/netlas-scripts)
+* [ShodanSpider](https://github.com/shubhamrooter/ShodanSpider)
 * [ShodanVulnCheck](https://github.com/Mavrepis/ShodanVulncheck)
 * [GreyNoise Bash Scripts](https://github.com/0x4rk0/greynoise)
 
