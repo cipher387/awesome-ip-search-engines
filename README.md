@@ -235,7 +235,7 @@
 
 
 
-## IOT search queries online direcories
+## IOT search queries online directories
 
 * [ICSRank](http://icsrank.com)
 
@@ -377,6 +377,8 @@
 * [GreyNoise Visualizer](https://github.com/cbuto/greynoise-visualizer)
 
 
+
+
 ## Results converting
 
 * [GShodan. JSON to HTML](https://github.com/System00-Security/GShodan)
@@ -400,6 +402,8 @@
 ## Geo Search Tools 
 
 * [ShodanGeoScan](https://github.com/nixintel/ShodanGeoScan)
+* [Map to Censys](https://workshop.censys.io/map-to-censys/)
+
 
 
 ## WAF
