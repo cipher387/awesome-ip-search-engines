@@ -502,6 +502,7 @@
 ## API Keys Search Tools
 
 * [GitShodanKey (search GitHub for public Shodan API keys)](https://github.com/laincode/shodan-seeker)
+* [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
 
 
 ## Account Generators
