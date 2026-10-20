@@ -145,6 +145,7 @@
 | [0.zone](https://0.zone/) | | |
 | [ODIN](https://search.odin.io/) |  | https://x.com/OdinThreatIntel |
 | [Shodan](https://www.shodan.io/)  | https://github.com/achillean | https://twitter.com/shodanhq |
+| [Modat Magnify](https://magnify.modat.io/)  |  | https://x.com/modat_magnify |
 
 
 # Learning Materials
@@ -158,6 +159,7 @@
 * [Onyphe Training Materials](https://github.com/onyphe/material)
 * [GreyNoise API Documentation](https://github.com/GreyNoise-Intelligence/api.greynoise.io)
 * [Awesome FOFA](https://github.com/FofaInfo/Awesome-FOFA)
+* [Modat Magnify Documentation](https://magnify.modat.io/documentation)
 
 
 
@@ -187,6 +189,7 @@
 * [:heartpulse:Netlas.io Attack Surface Discovery tool. Netlas :heartpulse:](https://www.youtube.com/watch?v=98s-Iu5MyRw)
 * [The Censys Internet Map. Censys](https://www.youtube.com/watch?v=GqP0LxpUwVY)
 * [NEW CYBER SECURITY TOOL YOU MIGHT NEED IN 2024 FOFA Search engine for IoT. Busy Hacker](https://www.youtube.com/watch?v=2Z_BlF51xPY)
+* [Modat Magnify Introduction](https://www.youtube.com/watch?v=ecprC8g8FHs)
 
 
 
@@ -210,6 +213,7 @@
 * [Using Shodan Better Way](https://medium.com/bugbountywriteup/using-shodan-better-way-b40f330e45f6)
 * [How I got RXSS from Shodan](https://medium.com/@melguerdawi/how-i-get-rxss-from-shodan-31d63be9b31)
 * [A Beginner’s Guide to Tracking Malware Infrastructure (Censys)](https://censys.com/a-beginners-guide-to-tracking-malware-infrastructure/)
+* [This Hidden Recon Tool Is a Game-Changer for Bug Bounty Hunters — And It Has a Killer Free Tier](https://osintteam.blog/this-hidden-recon-tool-is-a-game-changer-for-bug-bounty-hunters-and-it-has-a-killer-free-tier-a022c74771b0)
 
 
 
