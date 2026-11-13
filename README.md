@@ -146,6 +146,7 @@
 | [ODIN](https://search.odin.io/) | https://github.com/cybledev | https://x.com/OdinThreatIntel |
 | [Shodan](https://www.shodan.io/)  | https://github.com/achillean | https://twitter.com/shodanhq |
 | [Modat Magnify](https://magnify.modat.io/)  |  | https://x.com/modat_magnify |
+| [Whatoblock](https://whatoblock.com/) | https://github.com/Whatoblock-com | https://x.com/whatoblock |
 
 
 # Learning Materials
